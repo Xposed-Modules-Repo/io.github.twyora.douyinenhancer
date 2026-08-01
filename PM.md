@@ -2,13 +2,12 @@
 
 ## In Progress
 
+- [ ] Remove copyright restriction of Douyin Audio Mode
+
 ## TODO
 
-- [ ] Download restricted content
 - [ ] Save favorited emojis to album
 - [ ] Clear-screen playback without hiding danmaku
-- [ ] Remove copyright restriction of Douyin Audio Mode
-- [ ] Add dark mode support for module settings page
 - [ ] Pause video after opening the comment panel
 - [ ] Disable double-tap-to-like gesture while watching videos
 - [ ] Hide specific overlays on video during playback (e.g. like button, caption)
@@ -16,12 +15,16 @@
 - [ ] Auto-advance to next video when feed video ends
 - [ ] Pause when current feed video ends
 - [ ] Play videos at a specified initial playback speed
-- [ ] More reliable way to inject module settings into the host app's settings page
 - [ ] Try to support more new versions
 - ......
 
 ## Done
 
+- [x] ~~More reliable way to inject module settings into the host app's settings page~~ Long-press
+  "About Aweme" to open module settings dialog
+- [x] Adapt module to Douyin v38.8.0
+- [x] Add dark mode support for module settings page
+- [x] Download restricted content
 - [x] Module settings UI
 - [x] Backup and restore module settings
 - [x] Add more entry points to module settings

@@ -23,7 +23,7 @@ A small Xposed module that adds quality-of-life features to Douyin
 - Download comment images without watermark
 - Save comment emojis to album
 - ~~Video filtering~~ Recommended feed filtering
-- Save playing content to album (restricted content downloads not yet supported)
+- Save playing content to album
 - Save audio comments from comment section
 
 ---
