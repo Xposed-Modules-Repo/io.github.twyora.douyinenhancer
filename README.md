@@ -13,6 +13,8 @@ A small Xposed module that adds quality-of-life features to Douyin
 ## Tested Environment
 
 > Douyin 37.6.0
+>
+> Douyin 38.8.0
 ---
 > Other versions are untested with no guaranteed functionality. Please report issues or submit PRs
 > for any
