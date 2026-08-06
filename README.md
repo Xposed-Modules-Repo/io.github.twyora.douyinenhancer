@@ -12,9 +12,9 @@ A small Xposed module that adds quality-of-life features to Douyin
 
 ## Tested Environment
 
-> Douyin 37.6.0
+> Douyin v37.6.0 (last tested on module v0.6.0)
 >
-> Douyin 38.8.0
+> Douyin v38.8.0
 ---
 > Other versions are untested with no guaranteed functionality. Please report issues or submit PRs
 > for any
@@ -27,6 +27,7 @@ A small Xposed module that adds quality-of-life features to Douyin
 - ~~Video filtering~~ Recommended feed filtering
 - Save playing content to album
 - Save audio comments from comment section
+- Bypass Listen Aweme mode copyright restrictions
 
 ---
 See more about future development: [PM.md](PM.md)

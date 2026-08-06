@@ -2,14 +2,13 @@
 
 ## In Progress
 
-- [ ] Remove copyright restriction of Douyin Audio Mode
+- [ ] Disable double-tap-to-like gesture while watching the feed
 
 ## TODO
 
 - [ ] Save favorited emojis to album
 - [ ] Clear-screen playback without hiding danmaku
 - [ ] Pause video after opening the comment panel
-- [ ] Disable double-tap-to-like gesture while watching videos
 - [ ] Hide specific overlays on video during playback (e.g. like button, caption)
 - [ ] Hide the "Post" button in the center of the tab bar
 - [ ] Auto-advance to next video when feed video ends
@@ -22,6 +21,7 @@
 
 - [x] ~~More reliable way to inject module settings into the host app's settings page~~ Long-press
   "About Aweme" to open module settings dialog
+- [x] Remove copyright restriction of Douyin Audio Mode
 - [x] Adapt module to Douyin v38.8.0
 - [x] Add dark mode support for module settings page
 - [x] Download restricted content
