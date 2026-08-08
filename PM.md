@@ -2,8 +2,6 @@
 
 ## In Progress
 
-- [ ] Disable double-tap-to-like gesture while watching the feed
-
 ## TODO
 
 - [ ] Save favorited emojis to album
@@ -29,3 +27,5 @@
 - [x] Backup and restore module settings
 - [x] Add more entry points to module settings
 - [x] Cache obfuscated method lookup results for faster host app startup
+- [x] Disable double-tap-to-like gesture while watching the feed
+- [x] Open comment panel by double-tap in feed

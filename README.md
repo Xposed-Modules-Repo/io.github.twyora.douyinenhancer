@@ -28,6 +28,8 @@ A small Xposed module that adds quality-of-life features to Douyin
 - Save playing content to album
 - Save audio comments from comment section
 - Bypass Listen Aweme mode copyright restrictions
+- Disable double-tap to like in feed
+- Open comment panel by double-tap in feed
 
 ---
 See more about future development: [PM.md](PM.md)
