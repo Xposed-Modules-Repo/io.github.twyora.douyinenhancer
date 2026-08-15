@@ -30,6 +30,8 @@ A small Xposed module that adds quality-of-life features to Douyin
 - Bypass Listen Aweme mode copyright restrictions
 - Disable double-tap to like in feed
 - Open comment panel by double-tap in feed
+- Keep danmaku visible when entering clean mode (After enabling this, some scenarios in clear‑screen
+  mode may unexpectedly make unrelated components visible)
 
 ---
 See more about future development: [PM.md](PM.md)

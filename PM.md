@@ -5,7 +5,6 @@
 ## TODO
 
 - [ ] Save favorited emojis to album
-- [ ] Clear-screen playback without hiding danmaku
 - [ ] Pause video after opening the comment panel
 - [ ] Hide specific overlays on video during playback (e.g. like button, caption)
 - [ ] Hide the "Post" button in the center of the tab bar
@@ -29,3 +28,4 @@
 - [x] Cache obfuscated method lookup results for faster host app startup
 - [x] Disable double-tap-to-like gesture while watching the feed
 - [x] Open comment panel by double-tap in feed
+- [x] Clear-screen playback without hiding danmaku
