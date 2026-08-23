@@ -2,6 +2,9 @@
 
 ## In Progress
 
+- Improve module export configuration function
+- Verify repository links after version update
+
 ## TODO
 
 - [ ] Save favorited emojis to album
@@ -9,7 +12,6 @@
 - [ ] Hide specific overlays on video during playback (e.g. like button, caption)
 - [ ] Hide the "Post" button in the center of the tab bar
 - [ ] Auto-advance to next video when feed video ends
-- [ ] Pause when current feed video ends
 - [ ] Play videos at a specified initial playback speed
 - [ ] Try to support more new versions
 - ......
@@ -29,3 +31,4 @@
 - [x] Disable double-tap-to-like gesture while watching the feed
 - [x] Open comment panel by double-tap in feed
 - [x] Clear-screen playback without hiding danmaku
+- [x] Pause when current feed video ends
