@@ -34,6 +34,7 @@ A small Xposed module that adds quality-of-life features to Douyin
   mode may unexpectedly make unrelated components visible)
 - Automatically pause video on playback completion
 - Block auto video resumption on foreground return
+- Block specific playback‑page components
 
 ---
 See more about future development: [PM.md](PM.md)
