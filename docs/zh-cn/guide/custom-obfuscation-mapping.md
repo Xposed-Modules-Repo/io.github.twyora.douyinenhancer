@@ -34,18 +34,18 @@
       "class": {
         "name": "<classQualifiedName>"
       },
-      "<method_name>": {
+      "[method_name]": {
         "name": "<methodName>",
         "parameters": {
           "values": [
             // 存在重载版本时按照函数签名中的参数顺序定位模块所需方法，
-            // 若列表为空，则仅按方法名匹配
-            "<paramTypeQualifiedName>",
+            // 若列表为null，则仅按方法名匹配
+            "[paramTypeQualifiedName]",
             ...
           ]
         }
       },
-      "<field_name>": {
+      "[field_name]": {
         "name": "<fieldName>"
       }
     },

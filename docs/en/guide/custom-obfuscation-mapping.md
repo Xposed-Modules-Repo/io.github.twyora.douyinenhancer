@@ -41,18 +41,18 @@ Below is an obfuscation mapping template:
       "class": {
         "name": "<classQualifiedName>"
       },
-      "<method_name>": {
+      "[method_name]": {
         "name": "<methodName>",
         "parameters": {
           "values": [
             // When overloaded versions exist, locate the method required by the module according to the parameter order in the function signature.
-            // If the list is empty, match only by method name.
-            "<paramTypeQualifiedName>",
+            // If the list is null, match only by method name.
+            "[paramTypeQualifiedName]",
             ...
           ]
         }
       },
-      "<field_name>": {
+      "[field_name]": {
         "name": "<fieldName>"
       }
     },

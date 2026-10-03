@@ -9,10 +9,9 @@
 
 - [ ] Save favorited emojis to album
 - [ ] Pause video after opening the comment panel
-- [ ] Hide the "Post" button in the center of the tab bar
-- [ ] Auto-advance to next video when feed video ends
+- [ ] ~~Auto-advance to next video when feed video ends~~ (Already supported by the host)
 - [ ] Play videos at a specified initial playback speed
-- [ ] Try to support more new versions
+- [ ] ~~Try to support more new versions~~
 - ......
 
 ## Done
@@ -33,3 +32,4 @@
 - [x] Pause when current feed video ends
 - [x] Verify repository links after version update
 - [x] Hide specific overlays on video during playback (e.g. like button, caption)
+- [x] Hide the "Post" button in the center of the tab bar
