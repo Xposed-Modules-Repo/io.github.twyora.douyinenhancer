@@ -32,12 +32,12 @@ A small Xposed module that adds quality-of-life features to Douyin
 - Bypass Listen Aweme mode copyright restrictions
 - Disable double-tap to like in feed
 - Open comment panel by double-tap in feed
-- Keep danmaku visible when entering clean mode (After enabling this, some scenarios in clear‑screen
-  mode may unexpectedly make unrelated components visible)
+- Keep danmaku visible when entering clean mode
 - Automatically pause video on playback completion
 - Block auto video resumption on foreground return
 - Block specific playback‑page components
 - Selectively removing some navigation items from the top or bottom bar
+- Hiding follow button below avatar on playback
 
 ---
 See more about future development: [PM.md](PM.md)
@@ -66,4 +66,3 @@ See more about future development: [PM.md](PM.md)
 - [KavaRef](https://github.com/HighCapable/KavaRef)
 - [RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen)
 - [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
-
